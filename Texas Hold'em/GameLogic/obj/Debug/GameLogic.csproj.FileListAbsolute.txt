@@ -1,0 +1,12 @@
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\NLog.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameLogic\obj\Debug\GameLogic.pdb

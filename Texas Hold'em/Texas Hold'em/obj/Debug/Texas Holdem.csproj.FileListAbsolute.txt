@@ -1,0 +1,16 @@
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\bin\Debug\NLog.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\obj\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\obj\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Texas Hold'em\obj\Debug\Texas Holdem.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\obj\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\obj\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\bin\Debug\NLog.config
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\test\Texas Hold'em\Texas Hold'em\obj\Debug\Texas Holdem.csprojResolveAssemblyReference.cache

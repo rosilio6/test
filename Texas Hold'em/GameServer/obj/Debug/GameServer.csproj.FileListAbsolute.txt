@@ -1,0 +1,14 @@
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\NLog.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\obj\Debug\GameServer.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\GameServer\obj\Debug\GameServer.pdb

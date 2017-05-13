@@ -1,0 +1,8 @@
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\bin\Debug\NLog.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\obj\Debug\UserManagement.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\UserManagement\obj\Debug\UserManagement.pdb
