@@ -1,0 +1,88 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GameLogic
+{
+    class Deck : DeckInterface
+    {
+
+        private int _currTop;
+        private Card[] _cards;
+        public Deck()
+        {
+            _currTop = 52;
+            _cards = new Card[52];
+            for (int i = 2; i < 15; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    _cards[_currTop-1] =new Card((Symbol)i, (Suit)j);
+                    _currTop--;
+                }
+            }
+            _currTop = 51;
+            Shuffle();
+        }
+        
+
+        public Card PickACard()
+        {
+            if (_currTop < 0)
+            { return null; }
+             _currTop--;
+            return _cards[_currTop + 1];
+        }
+
+        public void Shuffle()
+        {
+            for (int i = 0; i < 350; i++)
+            {
+                ShuffleChunk(1);
+            }
+           
+            Random rnd = new Random();
+            for (int i = 0; i < 100; i++)
+            {
+                ShuffleChunk(rnd.Next(5,10));
+            }
+            
+           for (int i = 0; i < 50; i++)
+           {
+               ShuffleChunk(rnd.Next(10, 20));
+           }
+           
+        }
+        private void ShuffleChunk(int ChunkSize)
+        {
+            Random rnd = new Random();
+            int _firstNum = rnd.Next(52- ChunkSize);
+            int _secondNum = rnd.Next(52- ChunkSize);
+            Card _tempCard;
+            for (int i = 0; i < ChunkSize; i++)
+            {
+                _tempCard = _cards[_secondNum + i];
+                _cards[_secondNum + i] = _cards[_firstNum + i];
+                _cards[_firstNum + i] = _tempCard;
+            }
+        }
+
+        public Collection<Card> Pick1Card()
+        {
+            return new Collection<Card> { PickACard() };
+        }
+
+        public Collection<Card> Pick2Card()
+        {
+            return new Collection<Card> { PickACard(), PickACard() };
+        }
+
+        public Collection<Card> Pick3Card()
+        {
+            return new Collection<Card> { PickACard(), PickACard(), PickACard() };
+        }
+    }
+}

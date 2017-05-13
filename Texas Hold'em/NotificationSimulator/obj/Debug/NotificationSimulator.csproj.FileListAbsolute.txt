@@ -1,0 +1,26 @@
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\NotificationSimulator.exe.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\NLog.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\NotificationSimulator.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\NotificationSimulator.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\Communication.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\ServiceLayer.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\Communication.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\ServiceLayer.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\obj\Debug\NotificationSimulator.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\obj\Debug\NotificationSimulator.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\NotificationSimulator\obj\Debug\NotificationSimulator.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\NotificationSimulator\bin\Debug\NotificationSimulator.exe.config
+C:\Users\israe\Desktop\test\Texas Hold'em\NotificationSimulator\obj\Debug\NotificationSimulator.exe
+C:\Users\israe\Desktop\test\Texas Hold'em\NotificationSimulator\obj\Debug\NotificationSimulator.pdb

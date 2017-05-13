@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9915DC0D-F021-4C70-B097-882717755CAF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AcceptanceTests</RootNamespace>
+    <AssemblyName>AcceptanceTests</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.4.9\lib\net45\NLog.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit.framework, Version=3.6.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.6.0\lib\net45\nunit.framework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bridge\Driver.cs" />
+    <Compile Include="Bridge\IBridge.cs" />
+    <Compile Include="Bridge\Proxy.cs" />
+    <Compile Include="Bridge\Real.cs" />
+    <Compile Include="Data\Card.cs" />
+    <Compile Include="Data\Flop.cs" />
+    <Compile Include="Data\GameClient.cs" />
+    <Compile Include="Data\GameLog.cs" />
+    <Compile Include="Data\Hand.cs" />
+    <Compile Include="Data\League.cs" />
+    <Compile Include="Data\LeagueType.cs" />
+    <Compile Include="Data\State.cs" />
+    <Compile Include="Data\Suit.cs" />
+    <Compile Include="Data\Turn.cs" />
+    <Compile Include="Data\User.cs" />
+    <Compile Include="Data\Value.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\TeastLeaveActiveGame.cs" />
+    <Compile Include="Tests\TeatEditUserDetails.cs" />
+    <Compile Include="Tests\TestCases.cs" />
+    <Compile Include="Tests\TestCreatePokerGame.cs" />
+    <Compile Include="Tests\TestFilterActiveGames.cs" />
+    <Compile Include="Tests\TestFindAllActiveGameThatUserCanJoin.cs" />
+    <Compile Include="Tests\TestFindAllActiveGameThatUserCanSpectate.cs" />
+    <Compile Include="Tests\TestJoinToPokerGame.cs" />
+    <Compile Include="Tests\TestLogin.cs" />
+    <Compile Include="Tests\TestLogout.cs" />
+    <Compile Include="Tests\TestMaintainingLeauge.cs" />
+    <Compile Include="Tests\TestReplayGameThatAreNoLongerActive.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Communication\Communication.csproj">
+      <Project>{2794a38b-b2d1-42da-800a-7446bc564d41}</Project>
+      <Name>Communication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GameLogic\GameLogic.csproj">
+      <Project>{96fbdc85-3ded-4ed3-bada-d2e4f095b1a4}</Project>
+      <Name>GameLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GameServer\GameServer.csproj">
+      <Project>{3b294d1b-b81f-4ff1-80ed-a6e2f8ea55be}</Project>
+      <Name>GameServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceLayer\ServiceLayer.csproj">
+      <Project>{4c75b010-164c-437c-8cfe-d8758ea9e4cf}</Project>
+      <Name>ServiceLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Testing\Testing.csproj">
+      <Project>{b7a932b8-c8ad-4949-96d2-e60784d458a0}</Project>
+      <Name>Testing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Texas Hold%27em\Texas Holdem.csproj">
+      <Project>{688e7466-8197-4154-aa5e-179995f2ac0d}</Project>
+      <Name>Texas Holdem</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserManagement\UserManagement.csproj">
+      <Project>{7f6baa52-7a6a-4a25-84b3-4903f3df4267}</Project>
+      <Name>UserManagement</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

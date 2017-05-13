@@ -1,0 +1,161 @@
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\GameLogic.exe
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\System.dll
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\System.pdb
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\boaz 2014\Source\Repos\Workshop2\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.exe
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\lizaf\Documents\GitHub\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\boaz\Source\Repos\Workshop3\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.dll
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\boaz\Desktop\workshop\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.dll
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\Idan\Documents\Workshop\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\GameLogic.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\GameLogic.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\NLog.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\NLog.xml
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\Testing\obj\Debug\Testing.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\NLog.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\bin\Debug\nunit.framework.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\Testing\obj\Debug\Testing.pdb

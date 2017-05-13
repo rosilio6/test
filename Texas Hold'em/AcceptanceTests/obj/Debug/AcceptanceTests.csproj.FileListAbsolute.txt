@@ -1,0 +1,206 @@
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.exe
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\israe\workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.exe
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\fv\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\boaz\Source\Repos\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\tmp\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\boaz 2014\Desktop\poker\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\boaz 2014\Source\Repos\Workshoptest\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Communication.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Communication.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\workshop\Workshop\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.config
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Communication.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.exe
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Communication.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\GameLogic.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\GameServer.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\ServiceLayer.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Testing.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Texas Holdem.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\UserManagement.pdb
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\NLog.xml
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+C:\Users\israe\Desktop\test\Texas Hold'em\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
